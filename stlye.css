@@ -30,6 +30,12 @@ body{
 
 }
 
+.imagens{
+
+    display: flex;
+
+}
+
 .imagem{
 
     margin-top: 20px;
@@ -38,7 +44,8 @@ body{
 
 .gif{
 
-    margin-top: -300px;
+    margin-top: 0px;
     margin-right: 10%;
 
+    scale: 75%;
 }
