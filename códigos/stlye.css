@@ -50,6 +50,20 @@ body{
 
     /* espaçamento */
     gap: var(--espacamento);
+
+    padding: var(--espacamento);
+}
+
+.card{
+
+     /* centraliza o texto */
+     text-align: center;
+     background-color: var(--cor-secundaria);
+     color: var(--cor-terciaria);
+     border-radius: 8px;
+     padding: var(--espacamento);
+     margin-top: 10px;
+
 }
 
 
