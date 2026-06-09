@@ -41,9 +41,9 @@ body{
 
 
 
-.box1{
+/* .box1{
 
-    /* centraliza o texto */
+    /* centraliza o texto 
     text-align: center;
     background-color: var(--cor-secundaria);
     color: var(--cor-terciaria);
@@ -83,4 +83,4 @@ body{
     scale: 100%;
     transform: scaleX(-1);
 
-}
+} */
