@@ -80,6 +80,11 @@ body{
 
 }
 
+#botao_enviar_contato{
+
+   background-color: var(--cor-secundaria);
+   
+}
 
 
 
