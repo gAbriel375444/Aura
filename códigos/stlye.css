@@ -39,6 +39,21 @@ body{
 
 }
 
+/* Grid e Cards */
+.grid{
+
+    display: grid;
+    
+    /* deixa cada um, lado a lado
+    em  colunas */
+    grid-template-columns: repeat(3, 1fr);
+
+    /* espaçamento */
+    gap: var(--espacamento);
+}
+
+
+
 
 
 /* .box1{
