@@ -75,15 +75,16 @@ body{
     border-radius: 8px;
     padding: var(--espacamento);
     margin-top: 10px;
+    
+}
+button{
 
+    background-color: var(--cor-secundaria);
+    color: var(--cor-terciaria);
+    margin-top: 10px;
 }
 
-/* botão enviar */
-#botao_enviar_contato{
 
-   background-color: var(--cor-secundaria);
-   
-}
 
 /*Rodapé  */
 .rodape{
