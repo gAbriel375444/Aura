@@ -68,7 +68,25 @@ body{
 
 }
 
+/*formulário  */
 .formulario{
+
+    background-color: var(--cor-terciaria);
+    border-radius: 8px;
+    padding: var(--espacamento);
+    margin-top: 10px;
+
+}
+
+/* botão enviar */
+#botao_enviar_contato{
+
+   background-color: var(--cor-secundaria);
+   
+}
+
+/*Rodapé  */
+.rodape{
 
     /* centraliza o texto */
     text-align: center;
@@ -76,17 +94,9 @@ body{
     color: var(--cor-terciaria);
     border-radius: 8px;
     padding: var(--espacamento);
-    margin-top: 10px;
+    margin-top: 100px;
 
 }
-
-#botao_enviar_contato{
-
-   background-color: var(--cor-secundaria);
-   
-}
-
-
 
 
 /* .box1{
