@@ -32,8 +32,10 @@ body{
     /* centraliza o texto */
     text-align: center;
 
-    margin-top: 10px;
+    margin-top: 3px;
     
+    height: 100px;
+
     background-color: var(--cor-secundaria);
     color: var(--cor-terciaria);
     border-radius: 8px;
@@ -94,8 +96,8 @@ button{
     background-color: var(--cor-secundaria);
     color: var(--cor-terciaria);
     border-radius: 8px;
-    padding: var(--espacamento);
-    margin-top: 100px;
+    padding: 50px;
+    margin-top: 10px;
 
 }
 
